@@ -1,0 +1,349 @@
+{
+  "artistas": [
+    {
+      "nombre": "Bad Bunny",
+      "nombre_completo": "Benito Antonio Martínez Ocasio",
+      "fecha_nacimiento": "10 de marzo de 1994",
+      "pais_origen": "Puerto Rico",
+      "genero_musical": "Reguetón, Trap, Latin Pop",
+      "albumes": [
+        {
+          "titulo": "YHLQMDLG",
+          "anio_lanzamiento": 2020,
+          "genero": "Reguetón, Trap",
+          "canciones": [
+            "Vete",
+            "Safaera",
+            "La Canción",
+            "Puesto Pa' Guerrial",
+            "Si Veo a Tu Mamá"
+          ]
+        },
+        {
+          "titulo": "Un Verano Sin Ti",
+          "anio_lanzamiento": 2022,
+          "genero": "Reguetón, Latin Pop",
+          "canciones": [
+            "Me Porto Bonito",
+            "Ojitos Lindos",
+            "Efecto",
+            "Titi Me Preguntó",
+            "Después de la Playa"
+          ]
+        },
+        {
+          "titulo": "El Último Tour Del Mundo",
+          "anio_lanzamiento": 2020,
+          "genero": "Trap, Reguetón",
+          "canciones": [
+            "Dakiti",
+            "Bye Me Fui",
+            "Pa' Romperla",
+            "La Noche de Anoche",
+            "Canción con Yandel"
+          ]
+        },
+        {
+          "titulo": "X 100PRE",
+          "anio_lanzamiento": 2018,
+          "genero": "Trap, Reguetón",
+          "canciones": [
+            "Soy Peor",
+            "Chambea",
+            "Mía",
+            "Vete",
+            "Afilando los Cuchillos"
+          ]
+        },
+        {
+          "titulo": "Las Que No Iban A Salir",
+          "anio_lanzamiento": 2020,
+          "genero": "Reguetón, Trap",
+          "canciones": [
+            "Pa' la Calle",
+            "Bye Me Fui",
+            "Vamo a Darle",
+            "La Dura",
+            "Te Gusta"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Taylor Swift",
+      "nombre_completo": "Taylor Alison Swift",
+      "fecha_nacimiento": "13 de diciembre de 1989",
+      "pais_origen": "Estados Unidos",
+      "genero_musical": "Pop, Country, Indie Folk",
+      "albumes": [
+        {
+          "titulo": "1989",
+          "anio_lanzamiento": 2014,
+          "genero": "Pop",
+          "canciones": [
+            "Shake It Off",
+            "Blank Space",
+            "Style",
+            "Bad Blood",
+            "Wildest Dreams"
+          ]
+        },
+        {
+          "titulo": "Red",
+          "anio_lanzamiento": 2012,
+          "genero": "Pop, Country",
+          "canciones": [
+            "I Knew You Were Trouble",
+            "We Are Never Ever Getting Back Together",
+            "All Too Well",
+            "22",
+            "Begin Again"
+          ]
+        },
+        {
+          "titulo": "Lover",
+          "anio_lanzamiento": 2019,
+          "genero": "Pop",
+          "canciones": [
+            "Lover",
+            "You Need To Calm Down",
+            "Me!",
+            "The Archer",
+            "Cruel Summer"
+          ]
+        },
+        {
+          "titulo": "Folklore",
+          "anio_lanzamiento": 2020,
+          "genero": "Indie Folk, Alternative Rock",
+          "canciones": [
+            "Cardigan",
+            "Exile",
+            "Betty",
+            "The 1",
+            "Invisible String"
+          ]
+        },
+        {
+          "titulo": "Midnights",
+          "anio_lanzamiento": 2022,
+          "genero": "Pop, Synth-pop",
+          "canciones": [
+            "Anti-Hero",
+            "Bejeweled",
+            "Lavender Haze",
+            "Snow On The Beach",
+            "Maroon"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ariana Grande",
+      "nombre_completo": "Ariana Grande-Butera",
+      "fecha_nacimiento": "26 de junio de 1993",
+      "pais_origen": "Estados Unidos",
+      "genero_musical": "Pop, R&B",
+      "albumes": [
+        {
+          "titulo": "Dangerous Woman",
+          "anio_lanzamiento": 2016,
+          "genero": "Pop, R&B",
+          "canciones": [
+            "Dangerous Woman",
+            "Into You",
+            "Side to Side",
+            "No Tears Left to Cry",
+            "Be Alright"
+          ]
+        },
+        {
+          "titulo": "Sweetener",
+          "anio_lanzamiento": 2018,
+          "genero": "Pop, R&B",
+          "canciones": [
+            "No Tears Left to Cry",
+            "God Is a Woman",
+            "Breathin",
+            "Into You",
+            "Sweetener"
+          ]
+        },
+        {
+          "titulo": "Thank U, Next",
+          "anio_lanzamiento": 2019,
+          "genero": "Pop, R&B",
+          "canciones": [
+            "7 Rings",
+            "Thank U, Next",
+            "Break Up with Your Girlfriend, I'm Bored",
+            "Stuck with U",
+            "Love Me Harder"
+          ]
+        },
+        {
+          "titulo": "My Everything",
+          "anio_lanzamiento": 2014,
+          "genero": "Pop, R&B",
+          "canciones": [
+            "Problem",
+            "Bang Bang",
+            "Love Me Harder",
+            "One Last Time",
+            "Break Free"
+          ]
+        },
+        {
+          "titulo": "Positions",
+          "anio_lanzamiento": 2020,
+          "genero": "Pop, R&B",
+          "canciones": [
+            "Positions",
+            "34+35",
+            "pov",
+            "My Hair",
+            "Nasty"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ed Sheeran",
+      "nombre_completo": "Edward Christopher Sheeran",
+      "fecha_nacimiento": "17 de febrero de 1991",
+      "pais_origen": "Reino Unido",
+      "genero_musical": "Pop, Folk, R&B",
+      "albumes": [
+        {
+          "titulo": "Shape of You",
+          "anio_lanzamiento": 2017,
+          "genero": "Pop, R&B",
+          "canciones": [
+            "Shape of You",
+            "Castle on the Hill",
+            "Galway Girl",
+            "Perfect",
+            "Happier"
+          ]
+        },
+        {
+          "titulo": "Divide",
+          "anio_lanzamiento": 2017,
+          "genero": "Pop, Folk",
+          "canciones": [
+            "Shape of You",
+            "Castle on the Hill",
+            "Galway Girl",
+            "Perfect",
+            "Happier"
+          ]
+        },
+        {
+          "titulo": "Plus",
+          "anio_lanzamiento": 2011,
+          "genero": "Pop, Folk",
+          "canciones": [
+            "The A Team",
+            "Lego House",
+            "Drunk",
+            "You Need Me, I Don't Need You",
+            "Kiss Me"
+          ]
+        },
+        {
+          "titulo": "No.6 Collaborations Project",
+          "anio_lanzamiento": 2019,
+          "genero": "Pop, R&B",
+          "canciones": [
+            "I Don't Care",
+            "Beautiful People",
+            "South of the Border",
+            "Take Me Back to London",
+            "Cross Me"
+          ]
+        },
+        {
+          "titulo": "X",
+          "anio_lanzamiento": 2014,
+          "genero": "Pop, Folk",
+          "canciones": [
+            "Sing",
+            "Don't",
+            "Thinking Out Loud",
+            "Afire Love",
+            "Tenerife Sea"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "The Weeknd",
+      "nombre_completo": "Abel Makkonen Tesfaye",
+      "fecha_nacimiento": "16 de febrero de 1990",
+      "pais_origen": "Canadá",
+      "genero_musical": "R&B, Pop, Synthwave",
+      "albumes": [
+        {
+          "titulo": "After Hours",
+          "anio_lanzamiento": 2020,
+          "genero": "Pop, Synthwave",
+          "canciones": [
+            "Blinding Lights",
+            "Heartless",
+            "Save Your Tears",
+            "In Your Eyes",
+            "Too Late"
+          ]
+        },
+        {
+          "titulo": "Starboy",
+          "anio_lanzamiento": 2016,
+          "genero": "R&B, Pop",
+          "canciones": [
+            "Starboy",
+            "I Feel It Coming",
+            "Party Monster",
+            "Reminder",
+            "Secrets"
+          ]
+        },
+        {
+          "titulo": "Beauty Behind the Madness",
+          "anio_lanzamiento": 2015,
+          "genero": "R&B, Pop",
+          "canciones": [
+            "Can't Feel My Face",
+            "The Hills",
+            "Earned It",
+            "Often",
+            "In the Night"
+          ]
+        },
+        {
+          "titulo": "Dawn FM",
+          "anio_lanzamiento": 2022,
+          "genero": "Synthwave, Pop",
+          "canciones": [
+            "Take My Breath",
+            "Sacrifice",
+            "Out of Time",
+            "Gasoline",
+            "Is There Someone Else?"
+          ]
+        },
+        {
+          "titulo": "Trilogy",
+          "anio_lanzamiento": 2012,
+          "genero": "R&B, Soul",
+          "canciones": [
+            "Wicked Games",
+            "The Morning",
+            "High for This",
+            "What You Need",
+            "Kiss Land"
+          ]
+        }
+      ]
+    }
+  ]
+}
